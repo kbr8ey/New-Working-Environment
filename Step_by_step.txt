@@ -1,0 +1,9 @@
+#Step by Step
+
+#1 Create directory with mkdir and cd into it
+#2 Initilize a git repo with git init if needed
+#3 Create and activate a virtual environment with "python -m venv venv" and "source venv/bin/activate"
+#4 Create a clean project structure with gitignore, requirements.txt, and README.md files under the project folder
+#5 Pip install necessary packages 
+#6 Freeze requirements.txt file with "pip freeze > requirements.txt"
+#7 In the terminal add and commit changes to repo using "git add ." and "git commit -m"
